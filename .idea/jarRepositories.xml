@@ -2,9 +2,29 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="public" />
+      <option name="name" value="wh public Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="wh snapshots Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-repos2" />
+      <option name="name" value="Central Repository 2" />
+      <option name="url" value="http://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="springsource-repos" />
+      <option name="name" value="SpringSource Repository" />
+      <option name="url" value="http://repo.spring.io/release/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -27,9 +47,19 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central-repos" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="mvnrepository" />
       <option name="name" value="mvnrepository" />
       <option name="url" value="http://www.mvnrepository.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="wh releases Repository" />
+      <option name="url" value="https://maven.aliyun.com/repository/maven-releases/" />
     </remote-repository>
   </component>
 </project>

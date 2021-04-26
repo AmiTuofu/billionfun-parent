@@ -17,8 +17,6 @@ org:
 server:
   port: 8002
 spring:
-  application:
-    name: feign-provider
   sleuth:
     sampler:
       probability: 1.0
