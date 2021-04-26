@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="billionfun-checkout" />
+        <module name="billionfun-cart" />
+        <module name="billionfun-order" />
+        <module name="eureka-server" />
+        <module name="cart" />
+        <module name="billionfun-common" />
+        <module name="search" />
+        <module name="billionfun-search" />
+        <module name="common" />
+        <module name="billionfun-product" />
+        <module name="web" />
+        <module name="billionfun-gateway" />
+        <module name="dubbo-client" />
+        <module name="checkout" />
+        <module name="order" />
+        <module name="billionfun-web" />
+        <module name="app" />
+        <module name="billionfun-eureka" />
+        <module name="product" />
+        <module name="zuul-gateway" />
+        <module name="dubbo-server" />
+        <module name="billionfun-dao" />
+        <module name="feign-provider" />
+        <module name="billionfun-user" />
+        <module name="pay" />
+        <module name="billionfun-promotion" />
+        <module name="zuul" />
+        <module name="billionfun-customer" />
+        <module name="eureka-client" />
+        <module name="billionfun-app" />
+        <module name="billionfun-cache" />
+        <module name="billionfun-pay" />
+        <module name="billionfun-feign-api" />
+        <module name="feign-consumer" />
+        <module name="user" />
+        <module name="promotion" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="app" options="-parameters" />
+      <module name="billionfun-cache" options="-parameters" />
+      <module name="billionfun-customer" options="-parameters" />
+      <module name="billionfun-dao" options="-parameters" />
+      <module name="billionfun-eureka" options="-parameters" />
+      <module name="billionfun-feign-api" options="-parameters" />
+      <module name="billionfun-gateway" options="-parameters" />
+      <module name="cart" options="-parameters" />
+      <module name="checkout" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="dubbo-client" options="-parameters" />
+      <module name="dubbo-server" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="feign-consumer" options="-parameters" />
+      <module name="feign-provider" options="-parameters" />
+      <module name="order" options="-parameters" />
+      <module name="pay" options="-parameters" />
+      <module name="product" options="-parameters" />
+      <module name="promotion" options="-parameters" />
+      <module name="search" options="-parameters" />
+      <module name="user" options="-parameters" />
+      <module name="web" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+      <module name="zuul-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>

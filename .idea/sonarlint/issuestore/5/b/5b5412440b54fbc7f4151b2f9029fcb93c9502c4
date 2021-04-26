@@ -1,0 +1,15 @@
+
+v
+java:S1192("TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 6 times.(àâ´Úüÿÿÿÿ8ŒÓÉ¢„/
+j	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†àŒ²8¬•ÕË„/
+m
+java:S1192,"KDefine a constant instead of duplicating this literal "createTime" 6 times.(¼ŸÅşÿÿÿÿ8ŒÓÉ¢„/
+~
+java:S1488 "bImmediately return this expression instead of assigning it to the temporary variable "customerVo".(»³£.8÷Í¯ƒ/
+n
+java:S1192+"LDefine a constant instead of duplicating this literal "messageData" 6 times.(€™œ·ûÿÿÿÿ8ŒÓÉ¢„/
+l
+java:S1192*"JDefine a constant instead of duplicating this literal "messageId" 6 times.(ü¾Åºøÿÿÿÿ8ŒÓÉ¢„/
+j	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêº¢8’ÁÚË„/
+o
+java:S1192."RDefine a constant instead of duplicating this literal "TestDirectRouting" 3 times.(‡æó„8’ÁÚË„/

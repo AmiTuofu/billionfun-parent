@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.billionfun.dao.GoodsMapper">
+    <resultMap id="BaseResultMap" type="com.billionfun.common.entity.Goods">
+        <id column="id" jdbcType="INTEGER" property="id"/>
+        <result column="product_id" jdbcType="VARCHAR" property="productId"/>
+        <result column="market_price" jdbcType="DECIMAL" property="marketPrice"/>
+        <result column="real_price" jdbcType="DECIMAL" property="realPrice"/>
+        <result column="stock" jdbcType="INTEGER" property="stock"/>
+        <result column="shelf_status" jdbcType="INTEGER" property="shelfStatus"/>
+        <result column="shelf_date" jdbcType="TIMESTAMP" property="shelfDate"/>
+        <result column="create_date" jdbcType="TIMESTAMP" property="createDate"/>
+        <result column="status" jdbcType="INTEGER" property="status"/>
+
+    </resultMap>
+    <update id="subtractStock" parameterType="map">
+        update goods set stock=stock - #{count} where id=#{id}
+    </update>
+
+</mapper>

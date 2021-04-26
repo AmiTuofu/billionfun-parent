@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬¾ã°8‰£ÓË„/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¯Ÿ—§şÿÿÿÿ8‰£ÓË„/
+r
+java:S1192#"UDefine a constant instead of duplicating this literal "ReturnCallback:     " 5 times.(ëÈ‡Ã8‰£ÓË„/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¡Ñµ8‰£ÓË„/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(’øè8‰£ÓË„/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ëÈ‡Ã8‰£ÓË„/
+s
+java:S1192"VDefine a constant instead of duplicating this literal "ConfirmCallback:     " 3 times.(õ“«8‰£ÓË„/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¦Ïì8‰£ÓË„/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ“«8‰£ÓË„/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™íöÔıÿÿÿÿ8‰£ÓË„/

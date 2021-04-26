@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-checkout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-checkout/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-customer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-feign-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-promotion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-promotion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/dubbo-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/dubbo-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/eureka-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/feign-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/feign-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-test/zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/billionfun-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
