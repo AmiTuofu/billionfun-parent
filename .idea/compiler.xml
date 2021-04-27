@@ -35,6 +35,7 @@
         <module name="billionfun-promotion" />
         <module name="zuul" />
         <module name="billionfun-customer" />
+        <module name="billlionfun-config-center" />
         <module name="eureka-client" />
         <module name="billionfun-app" />
         <module name="billionfun-cache" />
@@ -58,6 +59,7 @@
       <module name="billionfun-eureka" options="-parameters" />
       <module name="billionfun-feign-api" options="-parameters" />
       <module name="billionfun-gateway" options="-parameters" />
+      <module name="billlionfun-config-center" options="-parameters" />
       <module name="cart" options="-parameters" />
       <module name="checkout" options="-parameters" />
       <module name="common" options="-parameters" />

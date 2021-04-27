@@ -29,6 +29,7 @@
         <module>billionfun-eureka</module>
         <module>billionfun-gateway</module>
         <module>zuul</module>
+        <module>billlionfun-config-center</module>
     </modules>
 
     <parent>
