@@ -1,0 +1,13 @@
+
+i
+java:S20953"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ˆ’Äåıÿÿÿÿ
+k
+java:S20954"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(È„‚»ıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ùß¾ 
+¤
+java:S1130S"ˆRemove the declaration of thrown exception 'freemarker.template.TemplateNotFoundException' which is a subclass of 'java.io.IOException'.(Ìö†ùÿÿÿÿ
+©
+java:S1130S"Remove the declaration of thrown exception 'freemarker.template.MalformedTemplateNameException' which is a subclass of 'java.io.IOException'.(Ìö†ùÿÿÿÿ
+”
+java:S1130S"yRemove the declaration of thrown exception 'freemarker.core.ParseException' which is a subclass of 'java.io.IOException'.(Ìö†ùÿÿÿÿ

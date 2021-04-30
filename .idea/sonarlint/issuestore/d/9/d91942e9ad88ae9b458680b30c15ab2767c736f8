@@ -1,0 +1,16 @@
+
+x
+java:S1488 "]Immediately return this expression instead of assigning it to the temporary variable "goods".(›ÌŒøÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'sun.rmi.runtime.Log'.(ÛÖ ¢
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÛÖ ¢
+W
+java:S1128"ARemove this unused import 'com.billionfun.common.entity.Product'.(áûŠ¡
+e
+java:S1128
+"JRemove this unused import 'com.billionfun.product.service.ProductService'.(‡ô€úÿÿÿÿ
+R
+java:S1128"=Remove this unused import 'com.billionfun.common.vo.GoodsVo'.(êğıI
+X
+java:S1128"=Remove this unused import 'com.billionfun.dao.ProductMapper'.(£­Èìÿÿÿÿÿ

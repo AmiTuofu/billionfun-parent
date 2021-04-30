@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhuyi Email:zhuyi@co-mall.com
+ * @author zhuyi
  * @since 2021/3/15 8:57 下午
  */
 @Configuration

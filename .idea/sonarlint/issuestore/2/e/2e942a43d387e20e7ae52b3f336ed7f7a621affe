@@ -1,0 +1,6 @@
+
+c
+java:S1192,"HDefine a constant instead of duplicating this literal "unknown" 3 times.(í¾þèÿÿÿÿÿ
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô”ªº
+N
+java:S1197q"8Move the array designator from the variable to the type.(î¨Ý«

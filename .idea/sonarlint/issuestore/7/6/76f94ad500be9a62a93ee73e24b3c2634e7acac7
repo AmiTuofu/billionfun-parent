@@ -1,0 +1,11 @@
+
+\
+java:S2259<"FA "NullPointerException" could be thrown; "filePath" is nullable here.(Ü¶íŸ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÏğğÊúÿÿÿÿ
+K
+java:S1133"5Do not forget to remove this deprecated code someday.(ŞÒ¹ƒ
+>
+java:S1123"(Add the missing @deprecated Javadoc tag.(ŞÒ¹ƒ
+
+java:S11304"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(Ê±è³ûÿÿÿÿ

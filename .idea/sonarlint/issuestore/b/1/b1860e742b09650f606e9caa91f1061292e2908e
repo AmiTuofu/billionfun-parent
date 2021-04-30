@@ -1,0 +1,28 @@
+
+c
+java:S2095i"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¶Á²„úÿÿÿÿ
+c
+java:S2095F"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¶Á²„úÿÿÿÿ
+c
+java:S2095 "HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¶Á²„úÿÿÿÿ
+h
+java:S1192,"RDefine a constant instead of duplicating this literal "cscript //NoLogo " 3 times.(‰°–§
+7
+java:S16431"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+7
+java:S1643V"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+7
+java:S1643z"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+l	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¥Óçûÿÿÿÿ
+O
+java:S2589"8Remove this expression which always evaluates to "false"(î“Ëğ
+V	java:S125q"<This block of commented-out lines of code should be removed.(¾›×„ûÿÿÿÿ
+i
+java:S4042}"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+U	java:S899}";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+L
+java:S1133‹"5Do not forget to remove this deprecated code someday.(ó·¨±
+?
+java:S1123‹"(Add the missing @deprecated Javadoc tag.(ó·¨±
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(òìÔš
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(Ì¤õó

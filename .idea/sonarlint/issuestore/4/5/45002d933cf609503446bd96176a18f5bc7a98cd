@@ -1,0 +1,21 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(…É“Ë8ÿøÙÈŽ/
+b	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ƒçý‚8š›ÁÊŽ/
+Q
+java:S3740$"/Provide the parametrized type for this generic.(½§ƒ¿ùÿÿÿÿ8ãã¹ÉŽ/
+V
+java:S34001"9Remove this method and declare a constant for this value.(ï°Êé8Åª³ÊŽ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ßÛ”Öýÿÿÿÿ8ÿøÙÈŽ/
+]	java:S125,"<This block of commented-out lines of code should be removed.(ð ¤Ñøÿÿÿÿ8¹ŸÎÊŽ/
+F
+java:S11720")Remove this unused method parameter "id".(×ÜÄÎ8ÍÄ²ÊŽ/
+Q
+java:S3740#"/Provide the parametrized type for this generic.(âóä™ùÿÿÿÿ8ãã¹ÉŽ/
+~
+java:S1488$"\Immediately return this expression instead of assigning it to the temporary variable "list".(½§ƒ¿ùÿÿÿÿ8ãã¹ÉŽ/
+{
+java:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "object".(ïÝ¨·8¹ŸÎÊŽ/
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "list".(ßÛ”Öýÿÿÿÿ8ŽÏÚÈŽ/

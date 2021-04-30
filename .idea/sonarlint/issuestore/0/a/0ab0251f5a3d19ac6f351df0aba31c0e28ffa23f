@@ -1,0 +1,93 @@
+
+e
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷×…ì
+c
+java:S2095·"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ŸèÈ˜
+d
+java:S1192x"IDefine a constant instead of duplicating this literal " create " 4 times.(ÔÙÛıÿÿÿÿ
+J
+java:S1066j"/Merge this if statement with the enclosing one.(¦œ¿ğøÿÿÿÿ
+K
+java:S1066³"/Merge this if statement with the enclosing one.(Æî»Óûÿÿÿÿ
+F
+java:S1066¼"/Merge this if statement with the enclosing one.(ıı†±
+R
+java:S2629J"7Use the built-in formatting to construct this argument.(È—­Òıÿÿÿÿ
+M
+java:S2629T"7Use the built-in formatting to construct this argument.(ª²Æ§
+R
+java:S2629x"7Use the built-in formatting to construct this argument.(ÔÙÛıÿÿÿÿ
+R
+java:S2629{"7Use the built-in formatting to construct this argument.(‚Êèèşÿÿÿÿ
+S
+java:S2629›"7Use the built-in formatting to construct this argument.(ÕÎÚØşÿÿÿÿ
+S
+java:S2629"7Use the built-in formatting to construct this argument.(ş©Ãóşÿÿÿÿ
+S
+java:S2629ä"7Use the built-in formatting to construct this argument.(¾ ÔĞüÿÿÿÿ
+S
+java:S2629Ì"7Use the built-in formatting to construct this argument.(ÔÙÛıÿÿÿÿ
+S
+java:S2629Î"7Use the built-in formatting to construct this argument.(‚Êèèşÿÿÿÿ
+Z	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(÷ÙŠ
+]
+java:S2259R"GA "NullPointerException" could be thrown; "ftpClient" is nullable here.(‹™–Æ
+^
+java:S2259š"GA "NullPointerException" could be thrown; "ftpClient" is nullable here.(‹™–Æ
+e
+java:S2259ì"N"NullPointerException" will be thrown when invoking method "closeFTPClient()".(ã¥å¾
+]
+java:S2259w"GA "NullPointerException" could be thrown; "ftpClient" is nullable here.(‹™–Æ
+‰
+java:S1130 "sRemove the declaration of thrown exception 'java.net.SocketException' which is a subclass of 'java.io.IOException'.(ÌÁŸŠ
+j
+java:S3252."OUse static access with "org.apache.commons.net.ftp.FTP" for "BINARY_FILE_TYPE".(øŒ•ıÿÿÿÿ
+j
+java:S3252/"OUse static access with "org.apache.commons.net.ftp.FTP" for "BINARY_FILE_TYPE".(îâ…øÿÿÿÿ
+\
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(È—­Òıÿÿÿÿ
+W
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(ª²Æ§
+\
+java:S3457x"AFormat specifiers should be used instead of string concatenation.(ÔÙÛıÿÿÿÿ
+\
+java:S3457{"AFormat specifiers should be used instead of string concatenation.(‚Êèèşÿÿÿÿ
+]
+java:S3457›"AFormat specifiers should be used instead of string concatenation.(ÕÎÚØşÿÿÿÿ
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ş©Ãóşÿÿÿÿ
+B
+java:S1075±"&Remove this hard-coded path-delimiter.(øÂÇüÿÿÿÿÿ
+d
+java:S5361¸"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ò£ù­úÿÿÿÿ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(ºÁª
+W	java:S125Û"<This block of commented-out lines of code should be removed.(°æìûüÿÿÿÿ
+=
+java:S1075à"&Remove this hard-coded path-delimiter.(Ñç²
+]
+java:S3457ä"AFormat specifiers should be used instead of string concatenation.(¾ ÔĞüÿÿÿÿ
+j
+java:S4042å"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+V	java:S899å";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+F
+java:S2093Î"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+B
+java:S1075"&Remove this hard-coded path-delimiter.(“º‡¿ÿÿÿÿÿ
+?	java:S108")Either remove or fill this block of code.(Æâ­ê
+F
+java:S2093ÿ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+i
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¤İÕ
+]
+java:S3457Ì"AFormat specifiers should be used instead of string concatenation.(ÔÙÛıÿÿÿÿ
+]
+java:S3457Î"AFormat specifiers should be used instead of string concatenation.(‚Êèèşÿÿÿÿ
+?	java:S108Ô")Either remove or fill this block of code.(Æâ­ê
+Y
+java:S1854Ü"=Remove this useless assignment to local variable "ftpClient".(Š´˜Ñÿÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(¬ÿ¹ıÿÿÿÿ
+W	java:S125ì"<This block of commented-out lines of code should be removed.(è‰†ìûÿÿÿÿ
+I
+java:S1135ÿ"2Complete the task associated to this TODO comment.(ÉÚõÎ
+J
+java:S1481Ü".Remove this unused "ftpClient" local variable.(Š´˜Ñÿÿÿÿÿ

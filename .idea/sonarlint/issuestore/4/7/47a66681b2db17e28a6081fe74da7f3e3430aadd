@@ -1,0 +1,15 @@
+
+I
+java:S1121".Extract the assignment out of this expression.(ìãì€şÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "string".(ìãì€şÿÿÿÿ
+?
+java:S1125`")Remove the literal "false" boolean value.(åû½
+V
+java:S2479¨":Remove the non-escaped \u0009 character from this literal.(ñœœíøÿÿÿÿ
+V
+java:S2479¨":Remove the non-escaped \u3000 character from this literal.(ñœœíøÿÿÿÿ
+Q
+java:S2479¶":Remove the non-escaped \u3000 character from this literal.( »¶å
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.( ¹Ô¿

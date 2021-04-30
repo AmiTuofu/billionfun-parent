@@ -1,0 +1,94 @@
+
+F
+java:S3740¢"/Provide the parametrized type for this generic.(ÌÌô¤
+F
+java:S3740¦"/Provide the parametrized type for this generic.(ÂËÅÛ
+F
+java:S3740”"/Provide the parametrized type for this generic.(Á³öÆ
+F
+java:S3740”"/Provide the parametrized type for this generic.(Á³öÆ
+F
+java:S1066á"/Merge this if statement with the enclosing one.(íî¢Â
+[	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(şÕüì
+[	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(È´€
+a	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(Ÿü­ïûÿÿÿÿ
+7
+java:S1643}"Use a StringBuilder instead.(¨ñö‚ıÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(í‘êÁ
+3
+java:S1643"Use a StringBuilder instead.(áß§ˆ
+8
+java:S1643Œ"Use a StringBuilder instead.(¨ñö‚ıÿÿÿÿ
+3
+java:S1643"Use a StringBuilder instead.(í‘êÁ
+U
+java:S1155£">Use isEmpty() to check whether the collection is empty or not.(ú™İñ
+T
+java:S2589¬"8Remove this expression which always evaluates to "false"(ÏÉ”üÿÿÿÿ
+v
+java:S1149À"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(—öØÑ
+v
+java:S1149è"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(””ô–
+v
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹²²²
+v
+java:S1149¨"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹²²²
+u
+java:S1149¿"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(èœ”
+
+
+java:S1845«"xRename method "isLetterorDigit" to prevent any misunderstanding/clash with method "isLetterOrDigit" defined on line 282.(÷—è÷
+<
+java:S1168P"&Return an empty array instead of null.(¥¹ï
+V	java:S125W"<This block of commented-out lines of code should be removed.(áª´üıÿÿÿÿ
+Q	java:S125b"<This block of commented-out lines of code should be removed.(§Äá
+V	java:S125n"<This block of commented-out lines of code should be removed.(¦½êÌıÿÿÿÿ
+Q	java:S125q"<This block of commented-out lines of code should be removed.(¶ÎŠº
+V	java:S125s"<This block of commented-out lines of code should be removed.(”›Çÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(«ğí¹
+;
+java:S2153˜"Remove the boxing to "Integer".(í¨ô…ûÿÿÿÿ
+=
+java:S2129˜"!Remove this "Integer" constructor(í¨ô…ûÿÿÿÿ
+?	java:S108Ö")Either remove or fill this block of code.(”ı¾
+?	java:S108ã")Either remove or fill this block of code.(”ı¾
+=	java:S131ù""Add a default case to this switch.(§Ä×Àøÿÿÿÿ
+?	java:S108¥")Either remove or fill this block of code.(”ı¾
+W	java:S125±"<This block of commented-out lines of code should be removed.(ˆş¼—ûÿÿÿÿ
+n
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿü­ïûÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(‹§ŞÈ
+M
+java:S5261å"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(ùûûƒÿÿÿÿÿ
+]
+java:S1126ø"AReplace this if-then-else statement by a single return statement.(„Üä³ıÿÿÿÿ
+O
+java:S1854 "8Remove this useless assignment to local variable "file".(—ä•”
+M
+java:S5261˜"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+j
+java:S4042–"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(±İÌÕûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(­“õıÿÿÿÿ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(¹Ş§
+U
+java:S4719º">Replace charset name argument with StandardCharsets.ISO_8859_1(áÂàÒ
+P
+java:S4719º"9Replace charset name argument with StandardCharsets.UTF_8(áÂàÒ
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æàƒ÷ÿÿÿÿÿ
+Q
+java:S4719Á":Replace charset name argument with StandardCharsets.UTF_16(¼•âğ
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(†€éˆ
+=
+java:S1168Ú"&Return an empty array instead of null.(¥¹ï
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(ÇßàŒ
+R	java:S125ê"<This block of commented-out lines of code should be removed.(šğ’±
+R
+java:S1854À"6Remove this useless assignment to local variable "ch".(¶±â‘úÿÿÿÿ
+P
+java:S2168í"9Remove this dangerous instance of double-checked locking.(ß„ª‰
+8
+java:S2111½"!Use "BigDecimal.valueOf" instead.(çí‹Š
+?	java:S108Ì")Either remove or fill this block of code.(”ı¾
+?	java:S108Û")Either remove or fill this block of code.(”ı¾

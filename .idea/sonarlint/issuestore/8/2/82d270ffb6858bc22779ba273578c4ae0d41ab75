@@ -1,0 +1,18 @@
+
+j
+java:S2095—"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(™Š©ıÿÿÿÿ
+i
+java:S2095–"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ãŒ„´ÿÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñª–ûÿÿÿÿ
+K
+java:S1133"5Do not forget to remove this deprecated code someday.(ŞìŸê
+>
+java:S1123"(Add the missing @deprecated Javadoc tag.(ŞìŸê
+j
+java:S4042’"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(áùˆ«ûÿÿÿÿ
+O
+java:S3878£"8Remove this array creation and simply pass the elements.(×ÊÏ¯
+X
+java:S1075£"ARefactor your code to get this URI from a customizable parameter.(×ÊÏ¯
+X
+java:S1075£"ARefactor your code to get this URI from a customizable parameter.(×ÊÏ¯

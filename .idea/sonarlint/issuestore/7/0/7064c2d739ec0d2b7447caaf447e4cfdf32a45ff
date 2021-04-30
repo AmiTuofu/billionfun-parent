@@ -1,0 +1,8 @@
+
+[
+java:S2259@"@A "NullPointerException" could be thrown; "df" is nullable here.(Ş©Õ˜şÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¦Ù‡•ıÿÿÿÿ
+C
+java:S1125"(Remove the literal "true" boolean value.(ú¤˜ùÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ

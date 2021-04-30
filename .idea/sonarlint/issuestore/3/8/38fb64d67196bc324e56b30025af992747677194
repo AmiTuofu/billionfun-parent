@@ -1,0 +1,71 @@
+
+m	java:S135V"YReduce the total number of break and continue statements in this loop to use at most one.(Ê…‚k
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ØÔ©
+A
+java:S5411Ç"*Use the primitive boolean expression here.(¸²ç”
+A
+java:S5411Ù"*Use the primitive boolean expression here.(¸²ç”
+œ
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÙØ¤Şıÿÿÿÿ
+6
+java:S2885#" Make "sdf" an instance variable.(µñ‹Ì
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(„½ıÃÿÿÿÿÿ
+>
+java:S1125;"(Remove the literal "true" boolean value.(×®¤¡
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖëŸ¡ÿÿÿÿÿ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(ÎùâÇúÿÿÿÿ
+i
+java:S3252…"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(ƒ´Ã¼
+i
+java:S3252ˆ"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(û›¸å
+o
+java:S3252Š"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(‚ğƒ
+m
+java:S3252"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(øØ¦Îüÿÿÿÿ
+l
+java:S3252‘"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_ERROR".(åáÊşÿÿÿÿ
+l
+java:S3252”"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BLANK".(ëç²Åøÿÿÿÿ
+n
+java:S3252—"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_FORMULA".(ùÖİíùÿÿÿÿ
+C
+java:S3011£",This accessibility update should be removed.(˜ÂÓ˜
+H
+java:S3011²",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011´",This accessibility bypass should be removed.(÷ù‰‹úÿÿÿÿ
+H
+java:S3011¸",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011º",This accessibility bypass should be removed.(±ñ§íúÿÿÿÿ
+H
+java:S3011¾",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+C
+java:S3011À",This accessibility bypass should be removed.(œáäæ
+H
+java:S3011Ä",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011È",This accessibility bypass should be removed.(áıÛÀøÿÿÿÿ
+C
+java:S3011Ê",This accessibility bypass should be removed.(Âú¹ó
+H
+java:S3011Ğ",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011Ò",This accessibility bypass should be removed.(Ğ–À±ÿÿÿÿÿ
+H
+java:S3011Ö",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+C
+java:S3011Ú",This accessibility bypass should be removed.(ÖÒÌ
+C
+java:S3011Ü",This accessibility bypass should be removed.(ô”°Ë
+H
+java:S3011á",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011ã",This accessibility bypass should be removed.(ÜüğŞøÿÿÿÿ
+H
+java:S3011ç",This accessibility bypass should be removed.(Î½‹•úÿÿÿÿ
+H
+java:S3011é",This accessibility bypass should be removed.(Ü¾àƒşÿÿÿÿ

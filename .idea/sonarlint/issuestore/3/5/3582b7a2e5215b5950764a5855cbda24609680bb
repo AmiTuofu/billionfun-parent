@@ -1,0 +1,23 @@
+
+[	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(›Öèç
+[	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(‡ğ°¾
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¨Ø·ô
+T
+java:S1155$">Use isEmpty() to check whether the collection is empty or not.(¨Ø·ô
+T
+java:S1155L">Use isEmpty() to check whether the collection is empty or not.(¨Ø·ô
+u
+java:S1149d"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Áúƒ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(öÏå
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(¨Ø·ô
+W
+java:S1126&"AReplace this if-then-else statement by a single return statement.(×ºÔù
+A
+java:S1168="+Return an empty collection instead of null.(¥¹ï
+<
+java:S1168M"&Return an empty array instead of null.(¥¹ï
+h
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(‡ğ°¾

@@ -5,9 +5,6 @@ spring:
   application:
     name: gateway-server # 应用名称
   cloud:
-    alibaba:
-      seata:
-        tx-service-group: prex_tx_group
     gateway:
       # 路由规则
       routes:
@@ -15,3 +12,8 @@ spring:
           uri: http://localhost:8083/   # 目标 URI，路由到微服务的地址
           predicates: # 断言（判断条件）
             - Path=/product/**          # 匹配对应 URL 的请求，将匹配到的请求追加在目标 URI 之后
+management:
+  endpoints:
+    web:
+      exposure:
+        include: gateway

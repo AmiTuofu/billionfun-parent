@@ -1,0 +1,40 @@
+
+D
+java:S1199ˆ"-Extract this nested code block into a method.(·ªõŸ
+D
+java:S1199³"-Extract this nested code block into a method.(é‡ä
+I
+java:S1199Û"-Extract this nested code block into a method.(¨Ğ±ğşÿÿÿÿ
+I
+java:S1199Ş"-Extract this nested code block into a method.(ßÇğûÿÿÿÿ
+I
+java:S1199ã"-Extract this nested code block into a method.(ÑüßÆùÿÿÿÿ
+I
+java:S1199è"-Extract this nested code block into a method.(¡‘‚‘úÿÿÿÿ
+C
+java:S1199í"-Extract this nested code block into a method.(øà¥
+a	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ü•ìğüÿÿÿÿ
+a	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(öÌ‡Èÿÿÿÿÿ
+|
+java:S4144Ì"`Update this method so that its implementation is not identical to "firstDayOfMonth" on line 104.(Çò³Àúÿÿÿÿ
+h
+java:S2786"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ğ«“„
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·ÿûç
+\
+java:S1126@"AReplace this if-then-else statement by a single return statement.(šú·úùÿÿÿÿ
+B
+java:S1172Ø"+Remove this unused method parameter "date".(¹”˜Ğ
+Q
+java:S1854†"5Remove this useless assignment to local variable "d".(€÷±¯øÿÿÿÿ
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(ä´Ğ
+O	java:S106ü"9Replace this use of System.out or System.err by a logger.(„ğƒ³
+T	java:S106ı"9Replace this use of System.out or System.err by a logger.(¢óÛËúÿÿÿÿ
+B
+java:S1481†"&Remove this unused "d" local variable.(€÷±¯øÿÿÿÿ

@@ -1,0 +1,17 @@
+
+m	java:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(Ê…‚k
+m
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ş¨Éüÿÿÿÿ
+“
+java:S11301"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ş¨Éüÿÿÿÿ
+t
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(çšÔåøÿÿÿÿ
+N
+java:S1197A"8Move the array designator from the variable to the type.(“ƒ‚â
+n
+java:S3252a"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(‚ğƒ
+”
+java:S1130‹"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ıóşÿÿÿÿ
+]
+java:S1075Œ"ARefactor your code to get this URI from a customizable parameter.(÷Á·ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ

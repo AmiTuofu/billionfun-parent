@@ -1,0 +1,116 @@
+
+
+java:S1319œ"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ãîùùÿÿÿÿ
+h
+java:S20951"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ãŒ„´ÿÿÿÿÿ
+l
+java:S2095Î"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ô’™ïüÿÿÿÿ
+k
+java:S2095õ"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(¸²ÿ£şÿÿÿÿ
+h
+java:S2095Š"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¾î¹–ûÿÿÿÿ
+i
+java:S20952"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(™Š©ıÿÿÿÿ
+`
+java:S2095Ô"IUse try-with-resources or close this "InputStream" in a "finally" clause.(±àáÈ
+e
+java:S2095À"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(•­ÿç
+h
+java:S2095Ş"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¾î¹–ûÿÿÿÿ
+h
+java:S2095õ"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¾î¹–ûÿÿÿÿ
+i
+java:S2095¿"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(–ÏçÉıÿÿÿÿ
+j
+java:S2095‹"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÆÇì£üÿÿÿÿ
+e
+java:S2095é"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ğ‚›¨
+j
+java:S2095ş"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(æô‡æşÿÿÿÿ
+d
+java:S2095Š"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Öøêù
+F
+java:S1066ƒ"/Merge this if statement with the enclosing one.(Õ¯ÚÈ
+F
+java:S1066Š"/Merge this if statement with the enclosing one.(Å„à¨
+F
+java:S1066’"/Merge this if statement with the enclosing one.(º¥ºó
+F
+java:S1066“"/Merge this if statement with the enclosing one.(õéÂü
+F
+java:S1066â"/Merge this if statement with the enclosing one.(Ü©Û„
+[	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(ÃòªÜ
+[	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(†œş’
+\	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(ü™ä‡
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+U
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(•ñ¥À
+Q
+java:S1141„"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÊÜd
+f	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÊÜd
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰º¾
+?
+java:S1604Ş"(Make this anonymous inner class a lambda(‰‹…ª
+¢
+java:S2681}"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÑÎ¤½ùÿÿÿÿ
+N
+java:S2589Ü"7Remove this expression which always evaluates to "true"(•ñ¥À
+v
+java:S1149ö"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+i
+java:S4042D"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(–òıÿÿÿÿ
+U	java:S899D";Do something with the "boolean" value returned by "delete".(–òıÿÿÿÿ
+K
+java:S1133["5Do not forget to remove this deprecated code someday.(†œş’
+>
+java:S1123["(Add the missing @deprecated Javadoc tag.(†œş’
+i
+java:S4042r"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(áùˆ«ûÿÿÿÿ
+h
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(è¼¾¯
+e
+java:S4042Š"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Å„à¨
+e
+java:S4042“"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(õéÂü
+V
+java:S4719»":Replace Charset.forName() call with StandardCharsets.UTF_8(ç†¦›ûÿÿÿÿ
+I
+java:S1172Ì"-Remove this unused method parameter "append".( ˜©¬ıÿÿÿÿ
+D
+java:S1125Ï"(Remove the literal "true" boolean value.(ÖÙŸïøÿÿÿÿ
+J
+java:S1172Û".Remove this unused method parameter "charset".(ˆš£ëÿÿÿÿÿ
+c
+java:S2677Œ"LUse or store the value returned from "readLine" instead of throwing it away.(ø™×
+u
+java:S2293§"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾·‡”øÿÿÿÿ
+?
+java:S1125ª"(Remove the literal "true" boolean value.(áşöó
+?
+java:S1125ª"(Remove the literal "true" boolean value.(áşöó
+X	java:S899¸"=Do something with the "boolean" value returned by "renameTo".(„Š—úÿÿÿÿ
+E
+java:S1125Û")Remove the literal "false" boolean value.(Ñ•›…úÿÿÿÿ
+T
+java:S1197‚"8Move the array designator from the variable to the type.(‰ª±Øúÿÿÿÿ
+R	java:S899Ÿ"=Do something with the "boolean" value returned by "renameTo".(ÿèÿ~
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(á³À
+O
+java:S1197…"8Move the array designator from the variable to the type.(ñ³Î
+?	java:S108•")Either remove or fill this block of code.(ìŠÈ
+F
+java:S2093ö"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S2209¸"5Change this instance-reference to a static reference.(Ú¹Û‹üÿÿÿÿ
+3
+java:S1116À"Remove this empty statement.(•­ÿç
+•
+java:S1130Ì"yRemove the declaration of thrown exception 'java.net.MalformedURLException' which is a subclass of 'java.io.IOException'.(ıé†šıÿÿÿÿ
+ˆ
+java:S1130Ì"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıé†šıÿÿÿÿ
+X
+java:S1075Í"ARefactor your code to get this URI from a customizable parameter.(³çš˜

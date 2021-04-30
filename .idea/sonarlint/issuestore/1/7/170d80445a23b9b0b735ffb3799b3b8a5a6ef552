@@ -1,0 +1,12 @@
+
+h
+java:S20959"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(«Ü‚öúÿÿÿÿ
+u
+java:S1149%"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+u
+java:S1149B"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+P
+java:S4719"":Replace Charset.forName() call with StandardCharsets.UTF_8(¼¡öÈ
+‘
+java:S11304"vRemove the declaration of thrown exception 'java.security.DigestException', as it cannot be thrown from method's body.(Â‚üÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ô¶—ıÿÿÿÿ

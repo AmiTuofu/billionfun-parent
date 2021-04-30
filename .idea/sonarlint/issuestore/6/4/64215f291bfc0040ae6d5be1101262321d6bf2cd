@@ -1,0 +1,11 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(áØ—ç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…¼ôž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×‚òµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÂý¹ùÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ç¥ûÎûÿÿÿÿ

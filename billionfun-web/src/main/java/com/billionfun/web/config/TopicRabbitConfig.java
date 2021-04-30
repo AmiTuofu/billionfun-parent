@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 /**
- * @author zhuyi Email:zhuyi@co-mall.com
+ * @author zhuyi
  * @since 2021/3/18 3:51 下午
  */
 @Configuration

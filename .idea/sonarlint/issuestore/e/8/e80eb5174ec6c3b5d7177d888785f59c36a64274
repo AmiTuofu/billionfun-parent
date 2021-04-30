@@ -1,0 +1,27 @@
+
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(Êô½Ÿıÿÿÿÿ
+a	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(°–…ãıÿÿÿÿ
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(‰¦”œıÿÿÿÿ
+a	java:S112ì"FDefine and throw a dedicated exception instead of using a generic one.(Êô½Ÿıÿÿÿÿ
+a	java:S112ï"FDefine and throw a dedicated exception instead of using a generic one.(°–…ãıÿÿÿÿ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(®ùÃâüÿÿÿÿ
+[
+java:S2259¯"?A "NullPointerException" could be thrown; "v" is nullable here.(ÜİùØşÿÿÿÿ
+V
+java:S11262"AReplace this if-then-else statement by a single return statement.(£œúf
+D
+java:S2447µ"-Null is returned but a "Boolean" is expected.(¥¹ï
+D
+java:S2447¸"-Null is returned but a "Boolean" is expected.(¥¹ï
+D
+java:S2447Â"-Null is returned but a "Boolean" is expected.(¥¹ï
+D
+java:S2447Å"-Null is returned but a "Boolean" is expected.(¥¹ï
+]
+java:S1126Î"AReplace this if-then-else statement by a single return statement.(ü¥Ş»ûÿÿÿÿ
+u
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ôü«†ÿÿÿÿÿ
+O	java:S106Ú"9Replace this use of System.out or System.err by a logger.(£ø˜Û
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(Ö¤«üÿÿÿÿ
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(û’œ°

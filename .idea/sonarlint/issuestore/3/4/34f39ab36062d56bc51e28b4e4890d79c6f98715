@@ -1,7 +1,7 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(à¯½ÿ8‚Ÿ…Ì„/
-X	java:S125#"<This block of commented-out lines of code should be removed.(œ“ó³8‚Ÿ…Ì„/
-‚
-java:S3305"eInject this field value directly into "simpleMessageListenerContainer", the only method that uses it.(É¹ò˜8‚Ÿ…Ì„/
 ‡
 java:S3305"eInject this field value directly into "simpleMessageListenerContainer", the only method that uses it.(ğƒôúÿÿÿÿ8‚Ÿ…Ì„/
+‚
+java:S3305"eInject this field value directly into "simpleMessageListenerContainer", the only method that uses it.(É¹ò˜8‚Ÿ…Ì„/
+X	java:S125"<This block of commented-out lines of code should be removed.(à¯½ÿ8‚Ÿ…Ì„/
+X	java:S125#"<This block of commented-out lines of code should be removed.(œ“ó³8‚Ÿ…Ì„/

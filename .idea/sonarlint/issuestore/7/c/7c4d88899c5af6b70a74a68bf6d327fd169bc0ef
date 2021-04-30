@@ -1,0 +1,71 @@
+
+c
+java:S2095‚"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(óî¶Ñ
+g
+java:S2095w"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(·ËÔìşÿÿÿÿ
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "template" 7 times.(“ØÅƒşÿÿÿÿ
+^
+java:S11921"HDefine a constant instead of duplicating this literal "Create " 5 times.(¶³›
+d
+java:S1192."IDefine a constant instead of duplicating this literal "Template" 7 times.(˜³ğËıÿÿÿÿ
+^
+java:S11922"IDefine a constant instead of duplicating this literal " Success" 7 times.(£ı°F
+]
+java:S11920"GDefine a constant instead of duplicating this literal "module" 7 times.(Å®ß’
+2
+java:S1643y"Use a StringBuilder instead.(Òê»ì
+P
+java:S1141t"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãúÏ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊòùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş„ùö
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÂ¡â
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÉìÌ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÇµºÓúÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(º®±†
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ğñƒş
+Z
+java:S1854&"DRemove this useless assignment to local variable "dataModel_fields".(ğÉìÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Âéäùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ôÔ¦Ã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×ÙÅ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(ºà©k
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(›±ÆÈşÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Óò×
+<
+java:S1075+"&Remove this hard-coded path-delimiter.(è›†
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(¶³›
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ü›´ıÿÿÿÿ
+A
+java:S10756"&Remove this hard-coded path-delimiter.(ĞÌàıÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(«±Ãóúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(òˆë½
+<
+java:S1075?"&Remove this hard-coded path-delimiter.(ñˆ¡å
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ËÂµ¯
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ĞüÇ³üÿÿÿÿ
+<
+java:S1075H"&Remove this hard-coded path-delimiter.(²æ‰€
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ˆ¤´Úûÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Åº’ñ
+<
+java:S1075Q"&Remove this hard-coded path-delimiter.(š¯¦¢
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(¿ÒË¿
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ù®Ï–
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(©Î¼ûÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(Ëœùèøÿÿÿÿ
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(úßÄŠ
+O
+java:S4719v"9Replace charset name argument with StandardCharsets.UTF_8(¥ê¡ú
+M
+java:S1135|"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+P
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(§ÑÙŞ
+N
+java:S1135‡"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+K
+java:S1481&"5Remove this unused "dataModel_fields" local variable.(ğÉìÌ

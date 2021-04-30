@@ -1,0 +1,7 @@
+
+Q	java:S107."<Method has 8 parameters, which is greater than 7 authorized.(İğÈÜ
+u
+java:S11492"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+h
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(İğÈÜ
+V	java:S125y"<This block of commented-out lines of code should be removed.(àÒşüøÿÿÿÿ

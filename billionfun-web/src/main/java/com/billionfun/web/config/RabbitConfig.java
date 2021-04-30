@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author zhuyi Email:zhuyi@co-mall.com
+ * @author zhuyi
  * @since 2021/3/19 3:47 下午
  */
 @Configuration

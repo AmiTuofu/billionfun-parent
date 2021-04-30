@@ -1,0 +1,18 @@
+
+h
+java:S2095q"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(è˜ÆŒ
+`	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+i
+java:S4042!"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÔÒ–õùÿÿÿÿ
+U	java:S899!";Do something with the "boolean" value returned by "delete".(ÔÒ–õùÿÿÿÿ
+E
+java:S2093%"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093K"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E
+java:S2093f"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+]
+java:S1075ƒ"ARefactor your code to get this URI from a customizable parameter.(ÏÎÔšıÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ëê†•
+W	java:S125†"<This block of commented-out lines of code should be removed.(³·Àÿÿÿÿÿ

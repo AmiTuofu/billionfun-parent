@@ -1,0 +1,25 @@
+
+J
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg
+J
+java:S1128
+"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+V	java:S125"<This block of commented-out lines of code should be removed.(­·ºµúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(•ô¶øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(•ô¶øÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(†…÷þÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(­Ž³ï
+Q	java:S125&"<This block of commented-out lines of code should be removed.(³²æ‚
+P
+java:S2209."5Change this instance-reference to a static reference.(»–çüÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(¯–Þåÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(½Êšúùÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.( ÓÊüÿÿÿÿ
+Z
+java:S2147X"DCombine this catch with the one at line 86, which has the same body.(”ý¾
+<
+java:S1905N"&Remove this unnecessary cast to "Tag".(ËˆùÁ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(µÿ¥Úÿÿÿÿÿ
+<	java:S131`""Add a default case to this switch.(Ô´ØÕýÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(¦ùÚúÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(¥ßÏÂýÿÿÿÿ

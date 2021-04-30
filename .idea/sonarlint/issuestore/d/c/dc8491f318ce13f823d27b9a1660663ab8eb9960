@@ -1,0 +1,13 @@
+
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(°–…ãıÿÿÿÿ
+[	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(üŠ·
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ĞĞéº
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(¨ú‚§
+D
+java:S1125")Remove the literal "false" boolean value.(Ã£øìşÿÿÿÿ
+H
+java:S24477"-Null is returned but a "Boolean" is expected.(êõ°‹üÿÿÿÿ
+>
+java:S1125="(Remove the literal "true" boolean value.(ÆÖš

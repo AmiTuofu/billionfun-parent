@@ -1,0 +1,93 @@
+
+D
+java:S1444'")Make this "public static UTC" field final(š¨ğ÷şÿÿÿÿ
+F
+java:S3740Â"/Provide the parametrized type for this generic.(ØÃÏô
+g
+java:S1192R"LUse already-defined constant 'YYMMDD' instead of duplicating its value here.(—ò–Œüÿÿÿÿ
+f
+java:S1192i"PUse already-defined constant 'YYYY_MM_DD' instead of duplicating its value here.(Óü’
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«‘øşÿÿÿÿ
+l	java:S117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒã”Êøÿÿÿÿ
+Y
+java:S2259Ã"BA "NullPointerException" could be thrown; "list" is nullable here.(ãÇâ‡
+j
+java:S1104'"OMake UTC a static final constant or non-public and provide accessors if needed.(š¨ğ÷şÿÿÿÿ
+w
+java:S1488Ú"`Immediately return this expression instead of assigning it to the temporary variable "dateTime".(¶Ğã½
+w
+java:S1488ğ"`Immediately return this expression instead of assigning it to the temporary variable "dateTime".(¶Ğã½
+x
+java:S1488Š"\Immediately return this expression instead of assigning it to the temporary variable "days".(ö°åªüÿÿÿÿ
+x
+java:S1488¢"\Immediately return this expression instead of assigning it to the temporary variable "days".(ö°åªüÿÿÿÿ
+i
+java:S3008'"NRename this field "UTC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¨ğ÷şÿÿÿÿ
+t	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾€şÿÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÓÄ¨ı
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¸í“ıÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½åÉûÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(£øª“
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õúá
+Z
+java:S1124 "EReorder the modifiers to comply with the Java Language Specification.(—Ô
+[
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(’¹äœ
+M
+java:S1135)"2Complete the task associated to this TODO comment.(©ÊÊ²üÿÿÿÿ
+\
+java:S1124Ò"EReorder the modifiers to comply with the Java Language Specification.(ØãßÎ
+\
+java:S1124è"EReorder the modifiers to comply with the Java Language Specification.(ôíï¥
+W	java:S125í"<This block of commented-out lines of code should be removed.(¡û¤İúÿÿÿÿ
+\
+java:S1124ü"EReorder the modifiers to comply with the Java Language Specification.(å×‡Ã
+\
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¤åÈ®
+a
+java:S1124†"EReorder the modifiers to comply with the Java Language Specification.(–óÇØûÿÿÿÿ
+G
+java:S2160‰"+Override the "equals" method in this class.(¨µ‹­şÿÿÿÿ
+j
+java:S2975¿"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+T	java:S106â"9Replace this use of System.out or System.err by a logger.(‰œ˜åşÿÿÿÿ
+X
+java:S1126Ê"AReplace this if-then-else statement by a single return statement.(¨å¦Ÿ
+I
+java:S1135Ô"2Complete the task associated to this TODO comment.(Üğ£Å
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯‚œúÿÿÿÿ
+B
+java:S1168ñ"+Return an empty collection instead of null.(¥¹ï
+ˆ
+java:S1130ø"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¼Š³Â
+3
+java:S1116ü"Remove this empty statement.(®¯¿ˆ
+ˆ
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¼Š³Â
+3
+java:S1116”"Remove this empty statement.(®¯¿ˆ
+ˆ
+java:S1130¨"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¼Š³Â
+V
+java:S1854É":Remove this useless assignment to local variable "start1".(Åáæ¥üÿÿÿÿ
+R
+java:S1854È"6Remove this useless assignment to local variable "d2".(­ıİúÿÿÿÿ
+O	java:S106Ä"9Replace this use of System.out or System.err by a logger.(ŸÏÍè
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ŞÎ½‡
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(à½Üüÿÿÿÿ
+L
+java:S2209î"5Change this instance-reference to a static reference.(à­šò
+G
+java:S1481ú"+Remove this unused "result" local variable.(Ó°¬Ñøÿÿÿÿ
+G
+java:S1481’"+Remove this unused "result" local variable.(Ó°¬Ñøÿÿÿÿ
+C
+java:S1481È"'Remove this unused "d2" local variable.(­ıİúÿÿÿÿ
+G
+java:S1481É"+Remove this unused "start1" local variable.(Åáæ¥üÿÿÿÿ

@@ -1,0 +1,111 @@
+
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¼ßğ¥
+n	java:S135Â"YReduce the total number of break and continue statements in this loop to use at most one.(Ê…‚k
+U
+java:S1155Ü">Use isEmpty() to check whether the collection is empty or not.(¨Ø·ô
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¾¥åùÿÿÿÿ
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ØÔ©
+A
+java:S5411°"*Use the primitive boolean expression here.(¸²ç”
+A
+java:S5411Â"*Use the primitive boolean expression here.(¸²ç”
+[
+java:S2583¯"DChange this condition so that it does not always evaluate to "false"(™Öó­
+P
+java:S11331"5Do not forget to remove this deprecated code someday.(×Ì¹»üÿÿÿÿ
+C
+java:S11231"(Add the missing @deprecated Javadoc tag.(×Ì¹»üÿÿÿÿ
+6
+java:S28853" Make "sdf" an instance variable.(µñ‹Ì
+
+java:S1130O"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(Ì¢è¼
+“
+java:S1130m"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(ø£Ûùúÿÿÿÿ
+‡
+java:S1130m"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ø£Ûùúÿÿÿÿ
+k
+java:S3252}"PUse static access with "org.apache.poi.ss.usermodel.Font" for "BOLDWEIGHT_BOLD".(íêæùÿÿÿÿ
+n
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 65 to the 15 allowed.(Œ¾…«úÿÿÿÿ
+C
+java:S3011ù",This accessibility update should be removed.(˜ÂÓ˜
+D
+java:S1125û"(Remove the literal "true" boolean value.(ğŠËşÿÿÿÿ
+C
+java:S3011’",This accessibility update should be removed.(˜ÂÓ˜
+D
+java:S1125–"(Remove the literal "true" boolean value.(ğŠËşÿÿÿÿ
+D
+java:S1125ª"(Remove the literal "true" boolean value.(â¾¶Èşÿÿÿÿ
+D
+java:S1125¯"(Remove the literal "true" boolean value.(â¾¶Èşÿÿÿÿ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(‡ÿâ¥
+p
+java:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¼ÒÔãùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Œä…Íøÿÿÿÿ
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(„½ıÃÿÿÿÿÿ
+?
+java:S1125§"(Remove the literal "true" boolean value.(×®¤¡
+u
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖëŸ¡ÿÿÿÿÿ
+Q
+java:S1117»"5Rename "e" which hides the field declared at line 50.(„Ù‰‹ıÿÿÿÿ
+i
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 94 to the 15 allowed.(“Œ¡—
+i
+java:S3252î"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BOOLEAN".(ƒ´Ã¼
+i
+java:S3252ñ"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_NUMERIC".(û›¸å
+o
+java:S3252ó"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(‚ğƒ
+m
+java:S3252÷"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(øØ¦Îüÿÿÿÿ
+l
+java:S3252ú"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_ERROR".(åáÊşÿÿÿÿ
+l
+java:S3252ı"PUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_BLANK".(ëç²Åøÿÿÿÿ
+n
+java:S3252€"RUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_FORMULA".(ùÖİíùÿÿÿÿ
+C
+java:S3011Œ",This accessibility update should be removed.(˜ÂÓ˜
+H
+java:S3011›",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+C
+java:S3011",This accessibility bypass should be removed.(Ô±Ïâ
+H
+java:S3011¡",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011£",This accessibility bypass should be removed.(«‹§ªıÿÿÿÿ
+H
+java:S3011§",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011©",This accessibility bypass should be removed.(¦æÁØûÿÿÿÿ
+H
+java:S3011­",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011±",This accessibility bypass should be removed.(øÉØ‰üÿÿÿÿ
+B
+java:S3011³",This accessibility bypass should be removed.(–ª‹0
+H
+java:S3011¹",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011»",This accessibility bypass should be removed.(âåÇĞùÿÿÿÿ
+H
+java:S3011¿",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011Ã",This accessibility bypass should be removed.(‹êâéüÿÿÿÿ
+C
+java:S3011Å",This accessibility bypass should be removed.(‘Š×ø
+H
+java:S3011Ê",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011Ì",This accessibility bypass should be removed.(â×Ùëıÿÿÿÿ
+H
+java:S3011Ğ",This accessibility bypass should be removed.(áÀşÿÿÿÿ
+H
+java:S3011Ò",This accessibility bypass should be removed.(È¶µ¶üÿÿÿÿ
+Z
+java:S4719ò">Replace charset name argument with StandardCharsets.ISO_8859_1(Ï®óáúÿÿÿÿ

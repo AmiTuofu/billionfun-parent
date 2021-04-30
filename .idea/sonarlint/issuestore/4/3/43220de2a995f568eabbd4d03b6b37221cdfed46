@@ -1,0 +1,32 @@
+
+z
+java:S2629®"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ç‰ô8úœÍÜ‘/
+R
+java:S3740È"/Provide the parametrized type for this generic.(ÂÁÈúúÿÿÿÿ8úœÍÜ‘/
+‹
+java:S1192¤"mDefine a constant instead of duplicating this literal "--------------------------------------------" 6 times.(·ƒÀ°8úœÍÜ‘/
+d
+java:S3457²"AFormat specifiers should be used instead of string concatenation.(ƒåüÍşÿÿÿÿ8úœÍÜ‘/
+I
+java:S1168¬"+Return an empty collection instead of null.(¥¹ï8úœÍÜ‘/
+d
+java:S3457¯"AFormat specifiers should be used instead of string concatenation.(ÔÀşÿÿÿÿ8úœÍÜ‘/
+Z
+java:S2629¯"7Use the built-in formatting to construct this argument.(ÔÀşÿÿÿÿ8úœÍÜ‘/
+u	java:S135w"YReduce the total number of break and continue statements in this loop to use at most one.(ÅäÈÀ8úœÍÜ‘/
+R
+java:S3740É"/Provide the parametrized type for this generic.(ñİÓˆûÿÿÿÿ8úœÍÜ‘/
+B
+java:S2629¥"$Invoke method(s) only conditionally.(Ïìå8úœÍÜ‘/
+Z
+java:S2629³"7Use the built-in formatting to construct this argument.(ÔÀşÿÿÿÿ8úœÍÜ‘/
+_
+java:S3457®"AFormat specifiers should be used instead of string concatenation.(Ç‰ô8úœÍÜ‘/
+d
+java:S3457³"AFormat specifiers should be used instead of string concatenation.(ÔÀşÿÿÿÿ8úœÍÜ‘/
+
+java:S2629²"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ƒåüÍşÿÿÿÿ8úœÍÜ‘/
+{
+java:S1488ı"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢8úœÍÜ‘/
+I
+java:S1168”"+Return an empty collection instead of null.(¥¹ï8úœÍÜ‘/

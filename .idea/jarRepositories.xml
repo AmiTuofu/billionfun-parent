@@ -12,6 +12,31 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://uk.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jitpack" />
+      <option name="name" value="jitpack" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="abcd" />
+      <option name="name" value="abcd" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public//" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mvnrepository" />
+      <option name="name" value="mvnrepository" />
+      <option name="url" value="http://www.mvnrepository.com/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="snapshots" />
       <option name="name" value="wh snapshots Repository" />
       <option name="url" value="https://maven.aliyun.com/repository/maven-snapshots/" />
@@ -28,18 +53,8 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
-      <option name="name" value="Maven Central repository" />
-      <option name="url" value="https://repo1.maven.org/maven2" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="central" />
       <option name="name" value="Central Repository" />
       <option name="url" value="http://nexus3.km.co-mall/repository/maven-public/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="jitpack" />
-      <option name="name" value="jitpack" />
-      <option name="url" value="https://jitpack.io" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="jboss.community" />
@@ -50,11 +65,6 @@
       <option name="id" value="central-repos" />
       <option name="name" value="Central Repository" />
       <option name="url" value="http://repo.maven.apache.org/maven2" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="mvnrepository" />
-      <option name="name" value="mvnrepository" />
-      <option name="url" value="http://www.mvnrepository.com/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="releases" />

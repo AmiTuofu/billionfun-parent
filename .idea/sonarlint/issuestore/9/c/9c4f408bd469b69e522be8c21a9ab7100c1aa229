@@ -1,0 +1,6 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘ÈÏ£
+K
+java:S1133"5Do not forget to remove this deprecated code someday.(‘ÈÏ£
+>
+java:S1123"(Add the missing @deprecated Javadoc tag.(‘ÈÏ£

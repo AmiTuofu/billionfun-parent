@@ -1,0 +1,9 @@
+
+[	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(ë¸ŞL
+v
+java:S1149Ğ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‰Áúƒ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(øÄğ
+i
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(»¿¼µ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(«÷õõ

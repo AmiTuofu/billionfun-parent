@@ -1,0 +1,82 @@
+
+e
+java:S1192˜"IDefine a constant instead of duplicating this literal "children" 5 times.(ÇÒ£„ûÿÿÿÿ
+]
+java:S1192Š"FDefine a constant instead of duplicating this literal "width" 3 times.(©Ö¨Ì
+K
+java:S1066¡"/Merge this if statement with the enclosing one.( Ç—Ãøÿÿÿÿ
+K
+java:S1066˜"/Merge this if statement with the enclosing one.(ÇÒ£„ûÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(† ¥¤ÿÿÿÿÿ
+\	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(ª³ø³
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(û”„Ï
+t	java:S135î"YReduce the total number of break and continue statements in this loop to use at most one.(’½ä†ùÿÿÿÿ
+o	java:S135–"YReduce the total number of break and continue statements in this loop to use at most one.(ãì²•
+Z
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(¹œÍÁıÿÿÿÿ
+g	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı´ƒ‚
+N
+java:S2589¨"7Remove this expression which always evaluates to "true"(ûÏ¯®
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡º¢İûÿÿÿÿ
+6
+java:S28853" Make "sdf" an instance variable.(µñ‹Ì
+M
+java:S1874@"2Remove this use of "_GsonTools"; it is deprecated.( ç¯üÿÿÿÿ
+M
+java:S1874@"2Remove this use of "_GsonTools"; it is deprecated.( ç¯üÿÿÿÿ
+T
+java:S1854P"9Remove this useless assignment to local variable "array".(´ßé•úÿÿÿÿ
+‡
+java:S1130N"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(åÜ–«ÿÿÿÿÿ
+M
+java:S1874o"2Remove this use of "_GsonTools"; it is deprecated.( ç¯üÿÿÿÿ
+M
+java:S1874o"2Remove this use of "_GsonTools"; it is deprecated.( ç¯üÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğüÕ«
+n
+java:S2737—"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+F
+java:S2093‘"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+S
+java:S1854°"7Remove this useless assignment to local variable "map".(™ºöºıÿÿÿÿ
+n
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¢Ÿ…êûÿÿÿÿ
+v
+java:S3252­"ZUse static access with "org.apache.poi.ss.usermodel.CellStyle" for "BORDER_MEDIUM_DASHED".(‹¡Ì™øÿÿÿÿ
+v
+java:S3252¯"ZUse static access with "org.apache.poi.ss.usermodel.CellStyle" for "BORDER_MEDIUM_DASHED".(³öËøıÿÿÿÿ
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+v
+java:S3252Ú"ZUse static access with "org.apache.poi.ss.usermodel.CellStyle" for "BORDER_MEDIUM_DASHED".(š½ñúûÿÿÿÿ
+2
+java:S3626³"Remove this redundant jump.(ÉŠ©ƒ
+N
+java:S1854’"7Remove this useless assignment to local variable "row".(ñã€Š
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¿ø¢ªşÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(œò»Ïøÿÿÿÿ
+l
+java:S3252ÿ"PUse static access with "org.apache.poi.ss.usermodel.Font" for "BOLDWEIGHT_BOLD".(íêæùÿÿÿÿ
+u
+java:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ŸÏıÿÿÿÿ
+p
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¬ß
+R	java:S125Ç"<This block of commented-out lines of code should be removed.(¬ú‘¥
+u
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßì‹˜ùÿÿÿÿ
+o
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö‹è)
+p
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁşŒ
+u
+java:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(öªŸûÿÿÿÿ
+u
+java:S2293Ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(©èÂşÿÿÿÿ
+U
+java:S4719û">Replace charset name argument with StandardCharsets.ISO_8859_1(ØÈ±ó
+U
+java:S4719’">Replace charset name argument with StandardCharsets.ISO_8859_1(ØÈ±ó
