@@ -133,8 +133,6 @@ r
 Bbillionfun-dao/src/main/resources/mybatis/mapper/ProductMapper.xml,1/c/1c31da0dfc80e1a7723d6e15c294473f0c95304d
 l
 <billionfun-dao/src/main/resources/mybatis/myBatis-config.xml,d/9/d9f443878e8b12fab0fc5efb3a8e415be8c6c0d0
-[
-+billionfun-dao/src/main/resources/file.conf,b/e/be995f4b7902a696321e6786ba22d0cb8adfbffd
 _
 /billionfun-dao/src/main/resources/registry.conf,7/4/74c95e21892659ac26c35788dd7a33aa61dfa4a7
 o

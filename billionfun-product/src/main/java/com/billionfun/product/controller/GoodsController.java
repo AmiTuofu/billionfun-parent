@@ -2,11 +2,8 @@ package com.billionfun.product.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.billionfun.common.entity.Goods;
-import com.billionfun.common.entity.Product;
 import com.billionfun.common.vo.GoodsVo;
-import com.billionfun.common.vo.ProductVo;
 import com.billionfun.product.service.GoodsService;
-import com.billionfun.product.service.ProductService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.StringRedisTemplate;
