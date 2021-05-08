@@ -11,3 +11,8 @@
 #2021.03.18 集成Rabbit MQ#
 #2021.04.27 集成SpringCloud Config#
 #2021.04.27 集成SpringCloud Gateway#
+#2021.04.29 集成eladmin的jpa，MapStruct#
+#2021.04.30 整合eladmin的jwt，Security和properties前缀，登陆，获取个人信息，获取验证码，退出接口#
+#2021.05.06 配置WebMvcConfig，统一异常，统一返回，统一验签，统一JSON MessageConverter作为返回 ResultGenerator#
+#2021.05.07 集成Canal，数据库和缓存的同步方案 #
+#2021.05.08 集成Kafka#
