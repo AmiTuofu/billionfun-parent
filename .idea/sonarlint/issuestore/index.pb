@@ -473,8 +473,6 @@ q
 Abillionfun-test/feign-provider/src/main/resources/application.yml,c/b/cb03588e3b6121f7e3a6dbef4abcadd03dcf9743
 o
 ?billionfun-test/feign-provider/src/main/resources/bootstrap.yml,a/4/a450552753334c1810ba83b216b36ea32e751a27
-a
-1billionfun-order/src/main/resources/bootstrap.yml,7/4/74d599a398f70f37184cda9e634dbbc609bd02b2
 ]
 -billionfun-order/target/classes/bootstrap.yml,b/a/ba350c4f0eff86cbcd9b2138b0b19f444bf75843
 :

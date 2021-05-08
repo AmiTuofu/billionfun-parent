@@ -27,6 +27,7 @@
         <module name="billionfun-eureka" />
         <module name="product" />
         <module name="zuul-gateway" />
+        <module name="billionfun-canal" />
         <module name="dubbo-server" />
         <module name="billionfun-dao" />
         <module name="feign-provider" />
@@ -54,6 +55,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="app" options="-parameters" />
       <module name="billionfun-cache" options="-parameters" />
+      <module name="billionfun-canal" options="-parameters" />
       <module name="billionfun-customer" options="-parameters" />
       <module name="billionfun-dao" options="-parameters" />
       <module name="billionfun-eureka" options="-parameters" />
