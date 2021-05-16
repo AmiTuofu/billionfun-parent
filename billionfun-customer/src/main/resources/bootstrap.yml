@@ -1,8 +1,9 @@
 spring:
   application:
     name: customer-center
-  cloud:
-    config:
-      uri: http://localhost:8095/ #配置文件所在仓库
-      profile: dev
-      label: dev
+#  cloud:
+#    config:
+#      uri: http://localhost:8095/ #配置文件所在仓库
+#      profile: dev
+#      label: dev
+

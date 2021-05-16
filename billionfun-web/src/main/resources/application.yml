@@ -5,9 +5,9 @@ spring:
   profiles:
     active: dev
   datasource:
-    url: jdbc:mysql://localhost:3306/billionfun-system?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false&allowPublicKeyRetrieval=true&useInformationSchema=false
+    url: jdbc:mysql://192.168.2.17:3306/billionfun-system?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useSSL=false&allowPublicKeyRetrieval=true&useInformationSchema=false
     username: root
-    password: zhuyi123
+    password: zhuyi
     driver-class-name: com.mysql.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
     connectionProperties: druid.stat.mergeSql=true
@@ -17,25 +17,25 @@ spring:
         tx-service-group: prex_tx_group
     nacos:
       discovery:
-        server-addr: localhost:8848
+        server-addr: 192.168.2.17:8848
     sentinel:
       transport:
-        dashboard: localhost:8096
+        dashboard: 192.168.2.17:8858
   redis:
-    host: 127.0.0.1
+    host: 192.168.2.17
     port: 6379
     database: 3
     #连接超时时间
     timeout: 5000
   rabbitmq:
-    host: 127.0.0.1
+    host: 192.168.2.17
     port: 5672
     username: root
     password: zhuyi123
     publisher-confirms: true
     publisher-returns: true
   kafka:
-    bootstrap-servers: 127.0.0.1:9092
+    bootstrap-servers: 192.168.2.17:9092
     ###########【初始化生产者配置】###########
     producer:
       # 重试次数
